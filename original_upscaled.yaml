@@ -1,0 +1,5 @@
+path: C:/Users/Ben/Documents/WorkComp/Uoa Engineering Master/Year 4/Sem2/760/Project/compsci-760-project
+train: normal_upscaled/images/train
+val: normal_upscaled/images/val
+nc: 1
+names: ['spleen']

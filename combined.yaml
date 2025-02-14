@@ -1,0 +1,5 @@
+path: C:/Users/Ben/Documents/WorkComp/Uoa Engineering Master/Year 4/Sem2/760/Project/compsci-760-project
+train: doubleblur_noise_denoise_deblur/images/train
+val: doubleblur_noise_denoise_deblur/images/val
+nc: 1
+names: ['spleen']

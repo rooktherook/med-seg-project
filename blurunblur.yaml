@@ -1,0 +1,5 @@
+path: C:/Users/Ben/Documents/WorkComp/Uoa Engineering Master/Year 4/Sem2/760/Project/compsci-760-project
+train: blur_deblurred/images/train
+val: blur_deblurred/images/val
+nc: 1
+names: ['spleen']

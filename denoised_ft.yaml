@@ -1,0 +1,5 @@
+path: C:/Users/Ben/Documents/WorkComp/Uoa Engineering Master/Year 4/Sem2/760/Project/compsci-760-project
+train: noisy_ft_denoised/images/train
+val: noisy_ft_denoised/images/valfiltered
+nc: 1
+names: ['spleen']

@@ -1,0 +1,17 @@
+# DO NOT PUSH DATASETS
+/spleen_data
+/DebugContours
+/images
+/labels
+/mask
+/runs
+/base
+/blur
+/doubleblur
+/blurclean
+/doubleblurclean
+/lowres
+
+
+# DO NOT PUSH VENV.
+/.conda

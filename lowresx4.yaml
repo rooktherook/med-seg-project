@@ -1,0 +1,5 @@
+path: C:/Users/Ben/Documents/WorkComp/Uoa Engineering Master/Year 4/Sem2/760/Project/compsci-760-project
+train: lowresx4/images/train
+val: lowresx4/images/valfiltered
+nc: 1
+names: ['spleen']
